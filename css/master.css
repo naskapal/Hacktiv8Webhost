@@ -1,0 +1,22 @@
+.jumbotron
+{
+  min-height: 800px;
+  width: auto;
+  background-image: url(../img/jumbotron3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 1;
+}
+.jumbotron, h1, h2
+{
+  color: #8A4837;
+}
+.navbar
+{
+  background-color: rgba(0,0,0,0.5);
+}
+.navbar,a
+{
+  color: #D4D6DA;
+}
